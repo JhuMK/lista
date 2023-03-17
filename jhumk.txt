@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,ESPN (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/155.ts
+
+#EXTINF:-1,Fox Sports 1 (Norte)
+http://megatv.live:80/live/MegaTest/MegaTV/174.ts
